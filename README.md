@@ -1,29 +1,44 @@
-# QA Testing Portfolio
+# QA Automation Portfolio
 
-Hi! I'm a QA Tester with experience in manual testing and currently expanding into test automation.
+Hi! I'm a QA Tester transitioning into Test Automation.
 
-## 🧪 Skills
-- Manual Testing (UAT, regression, smoke)
-- Test case design and execution
-- Bug reporting and tracking
-- Agile / Scrum methodology
+---
 
-## 🔧 Tools
+## 🧪 About Me
+QA Tester with experience in manual testing and currently building skills in test automation using Selenium and Python.
+
+---
+
+## 🔧 Skills
+
+**Manual Testing**
+- Functional testing
+- Regression testing
+- Smoke testing
+- Test case design
+
+**Tools**
 - Jira
 - ALM
 - ServiceNow
 - Postman
 - SQL (basic queries)
 
-## 🚀 Automation (in progress)
-- Selenium WebDriver
+**Automation (learning path)**
+- Selenium WebDriver (Python)
+- Pytest framework
+- Basic test automation structure
 
-## 📂 Repository Content
-This repository includes practice and learning materials related to:
-- Manual testing exercises
-- SQL queries practice
-- API testing examples
-- Automation practice (Selenium)
+---
+
+## 🚀 Projects
+
+### Selenium + Pytest Automation
+Automated test for login and product validation using SauceDemo.
+
+📁 automation/test_login_saucedemo.py
+
+---
 
 ## 🎯 Goal
-To strengthen my QA automation skills and grow into a QA Automation Engineer role.
+To grow into a QA Automation Engineer role by strengthening automation, API testing, and SQL skills.
